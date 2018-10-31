@@ -1,0 +1,21 @@
+{
+  "name": "jquery-typing",
+  "version": "0.2.0",
+  "description": "jQuery OrgChart is a plugin that allows you to render structures with nested elements in a easy-to-read tree structure",
+  "main": "plugin/jquery.typing-0.2.0.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisballen/jquery-typing.git"
+  },
+  "keywords": [
+    "jquery",
+    "org-chart"
+  ],
+  "author": "wesnolte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesnolte/jquery-typing/issues"
+  },
+  "homepage": "https://github.com/wesnolte/jquery-typing"
+}
